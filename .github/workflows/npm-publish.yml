@@ -1,4 +1,4 @@
-name: NPM Package Creation
+name: npm Publish
 
 on:
   release:

@@ -1,8 +1,9 @@
 {
   "author": "Juuso Laakso",
-  "description": "Prettier config file for City of Turku's Front-end web development",
+  "description": "City of Turku's Prettier config file for Front-end web development",
   "name": "@codepointtku/cotjsx-prettier",
   "version": "1.0.0",
+  "keywords": ["prettier", "prettierconfig"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codepointtku/jsx-prettier.git"
