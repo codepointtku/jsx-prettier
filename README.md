@@ -11,19 +11,19 @@
 ## Installation
 **Run** this command in your repository
 ```bash
-$ npm install --dev @codepointtku/cotjsx-prettier
+$ npm install --dev @codepointtku/jsx-prettier
 ```
 
 ## Usage
 **Add** this line to your `package.json`
 ```jsonc
 {
-  "prettier": "@codepointtku/cotjsx-prettier"
+  "prettier": "@codepointtku/jsx-prettier"
 }
 ```
 **Or** to your `.prettierrc`
 ```jsonc
 {
-  "@codepointtku/cotjsx-prettier"
+  "@codepointtku/jsx-prettier"
 }
 ```
