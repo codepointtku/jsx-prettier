@@ -13,7 +13,7 @@
 ## Installation
 **Run** this command in your repository
 ```bash
-$ npm install --dev @codepointtku/jsx-prettier
+$ npm install @codepointtku/jsx-prettier --save-dev
 ```
 
 ## Usage

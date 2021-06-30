@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Add a descriptive subtitle
+about: Help us squash bugs!
 title: "[BUG] ...Title"
 labels: Bug
 assignees: ''
