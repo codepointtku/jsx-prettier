@@ -2,7 +2,7 @@
   "author": "Juuso Laakso",
   "description": "City of Turku's Prettier config file for Front-end web development",
   "name": "@codepointtku/jsx-prettier",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "prettier",
     "prettierconfig"
