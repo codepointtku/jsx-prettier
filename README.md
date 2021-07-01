@@ -17,13 +17,19 @@ $ npm install @codepointtku/jsx-prettier --save-dev
 ```
 
 ## Usage
-**Add** this line to your `package.json`
+**Add** it to your `.prettierrc.js` *which will allow you to override settings in case you need to*
+```js
+module.exports = {
+  ...require("@codepointtku/jsx-prettier"),
+}
+```
+**Or** to your `package.json`
 ```jsonc
 {
   "prettier": "@codepointtku/jsx-prettier"
 }
 ```
-**Or** to your `.prettierrc`
+**Or...** add it to your `.prettierrc`/`.prettierrc.json`
 ```jsonc
 {
   "@codepointtku/jsx-prettier"
